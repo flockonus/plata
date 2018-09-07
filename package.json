@@ -1,0 +1,22 @@
+{
+  "name": "plata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flockonus/plata.git"
+  },
+  "author": "me",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/flockonus/plata/issues"
+  },
+  "homepage": "https://github.com/flockonus/plata#readme",
+  "dependencies": {
+    "phaser": "3.12.0"
+  }
+}
