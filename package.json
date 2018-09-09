@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/flockonus/plata#readme",
   "dependencies": {
-    "phaser": "3.12.0"
+    "phaser": "3.12.0",
+    "phaser3-examples": "git://github.com/photonstorm/phaser3-examples.git#862a13373be4175e4e96dac49f3eed89bde635c4"
   }
 }
